@@ -1,7 +1,7 @@
 ## Exp 8: Reproducing an Image Using Prompts for Image Generation
 
-# Date :
-# Reg. No. 
+# Date : 23/10/25
+# Reg. No. 212222020028
 
 ## Aim:
 To demonstrate the ability of text-to-image generation tools to reproduce an existing image by crafting precise prompts. The goal is to identify key elements within the image and use these details to generate an image as close as possible to the original.
@@ -52,4 +52,46 @@ To demonstrate the ability of text-to-image generation tools to reproduce an exi
 By using detailed and well-crafted prompts, text-to-image generation models can be effective in reproducing an image closely. The quality of the generated image depends on how accurately the prompt describes the image's key elements. The experiment demonstrates the importance of prompt refinement and iteration when working with AI tools to achieve desired outcomes. With practice, the model can generate images that closely match real-world visuals, which is useful for creative and practical applications.
 
 
-## IMAGES: (CHOOSE ANY TWO BELOW AND REPRODUCE)
+## IMAGES: (CHOOSE ANY TWO BELOW AND REPRODUCE):
+Output 1 :
+
+Original Image:
+
+<img width="361" height="196" alt="image" src="https://github.com/user-attachments/assets/bd5562d2-b8fa-4bc9-853a-4571311d3b3b" />
+
+AI Image:
+
+<img width="1024" height="535" alt="image" src="https://github.com/user-attachments/assets/3d4c75da-3e77-4d86-b084-fc7c48f2f09e" />
+
+comparision:
+original Image:
+Style: This is a photograph, exhibiting realistic detail and photographic qualities.
+
+Colors: The colors are vibrant and rich, particularly the fiery reds and oranges of the sunset sky, with realistic transitions. The ocean has deep blues and greens, and the rocky foreground shows natural earthy tones with varied textures.
+
+Detail: High level of detail in the rocks, the foamy movement of the water, and the clouds, capturing specific textures and light reflections.
+
+Water Movement: The water has a distinct long-exposure effect, showing smooth, milky trails and a sense of dynamic flow and power as it cascades over the rocks.
+
+Overall Feel: Realistic, dramatic, and captures the raw beauty and motion of a sunset over a rocky coast.
+AI generated image:
+Style: This image is rendered in a dreamy watercolor style, characterized by softer edges, blended colors, and a more artistic, less photographic appearance.
+
+Colors: The vibrant sunset colors are maintained but appear softer and more blended, typical of watercolor washes. The blues and purples in the sky and water are more pronounced and diffused. The earthy tones of the rocks are also softened.
+
+Detail: Details are impressionistic rather than sharp. The textures of the rocks are less defined, and the water's movement is suggested through blended strokes rather than crisp photographic trails.
+
+Water Movement: The long-exposure effect on the water is still present, but it's translated into softer, more flowing watercolor strokes, giving it a gentle, ethereal quality rather than dynamic power.
+
+Overall Feel: Dreamy, serene, artistic, and evokes a sense of calm and painterly beauty, differing from the stark realism of the photograph.
+
+Key Differences: The most significant difference lies in the artistic style and medium. The original is a photograph capturing reality with precision and dynamic motion, while the AI-generated image interprets that reality through the lens of a watercolor painting, emphasizing softness, blended hues, and an overall dreamier, more artistic interpretation. Details are softened, and photographic textures are replaced with painterly brushstrokes and washes.
+output 2:
+Original Image:
+
+<img width="255" height="251" alt="image" src="https://github.com/user-attachments/assets/b503e100-f8b5-4b22-a90a-2d1d0d94be6d" />
+AI generated image:
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/068f14f3-3e92-4220-9810-59fe5ebf8a84" />
+
+
